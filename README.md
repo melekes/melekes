@@ -2,7 +2,7 @@
 
 My name is Anton. I am an experienced (10+ years) backend developer interested in distributed systems and hard problems.
 
-- 🔭 🦀 at @paritytech
+- 🔭 Rust 🦀 at [@paritytech](https://github.com/paritytech)
 - 🌱 I’m currently learning Rust 🦀 and Spanish 🇪🇸 
 - 👯 I’m looking to collaborate on accelerating web3
 - 💬 Ask me about consensus, scaling blockchains and distributed systems
